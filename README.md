@@ -1,6 +1,8 @@
 ## Code Adjusted to work by MadMrCrazy everything else should remain the same
 
+I'm actually really surprised by some of these mistakes.. regardless I'm attempting to fix them
 
+---
 
 
 ## SunFounder PiCar-S
